@@ -1,0 +1,12 @@
+path: .
+train: train
+val: val
+test: test
+
+names:
+  0: mouse_bite
+  1: spur
+  2: missing_hole
+  3: short
+  4: open_circuit
+  5: spurious_copper
